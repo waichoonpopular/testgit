@@ -1,3 +1,5 @@
 new feature line start
 
 line 2
+
+line 3
